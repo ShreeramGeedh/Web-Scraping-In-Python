@@ -22,6 +22,7 @@ This repository will be perfect for you if: you are interested to gather data fo
 After learning the web scraping basics and approaches, you will be able to apply these new-found skills to your own personal projects or to build scrapers for businesses.
 
 /*********************************************************************************************************/
+
 /***********************************Carefull About This***********************************/
 
 Websites can change with time
