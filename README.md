@@ -27,7 +27,8 @@ Websites can change with time
 Technology is moving and evolving extremely fast, so are apps and websites. Whether websites change their styling or even their functionality, they evolve.
 
 Here is an image of the evolution of Facebook since it was created:
-![alt text](http://url/to/fb.jpg)
+
+![alt text](https://github.com/ShreeramGeedh/Web-Scraping-In-Python/blob/main/fb.jpg)
 
 It's important to keep this in mind when scraping them as well. Just because you wrote a script to scrape a website and it works today, doesn't mean that it will work in the future as it might change.
 
