@@ -41,4 +41,5 @@ Yet most websites don't change too often because they want to keep their interfa
 
 I will try to keep the contents of this course as up to date as I can, so that the code remains functional.
 /*********************************************************************************************************/
-**[My Final Words](/5.%20eBay/finalWords.md)**
+
+**[My Final Words on web scrapping... ](/5.%20eBay/finalWords.md)**
